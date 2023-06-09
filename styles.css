@@ -1,0 +1,27 @@
+body{
+    background-color: whitesmoke;
+    font-weight: 200;
+}
+header{
+    font-size: large;
+    display: flex;
+    
+
+    
+}
+header div{
+    color: darkblue;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 20px;
+    
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    margin-right: 10px;
+    padding: 15px, 10px;
+    font-size: small;
+    gap: 30px;
+
+
+}
