@@ -34,6 +34,7 @@ nav ul{
     padding-left: 400pxs;
     border: 100px;
     border-radius: 10px;
+    
 }
 nav ul li{
     cursor: pointer
@@ -42,6 +43,7 @@ nav ul li{
 .imagecode{
     width: 50px;
     object-fit: fill;
+    padding-left: 250px;
 }
 .rowsection{
     display: flex;
@@ -49,8 +51,7 @@ nav ul li{
     border-bottom: 20px;
     border-radius: 20px;
     border: 1px solid black;
-    
-    
+    width: 100%;
 }
 .Teamssection ul{
     display: flex;
